@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gitlabManager 1.0\n"
+"POT-Creation-Date: 2026-01-11 23:30+0300\n"
+"PO-Revision-Date: 2026-01-11 23:35+0300\n"
+"Last-Translator: Volkan Ozdemir <bilgi@volkan-ozdemir.com.tr>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "GitLab Manager..."
+msgstr "GitLab Yöneticisi..."
+
+msgid "GitLab Manager"
+msgstr "GitLab Yöneticisi"
+
+msgid "Failed to fetch repositories. Please check your token."
+msgstr "Depolar alınamadı. Lütfen jetonunuzu (token) kontrol edin."
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "GitLab Settings"
+msgstr "GitLab Ayarları"
+
+msgid "&Repositories:"
+msgstr "&Depolar:"
+
+msgid "&Open in Browser"
+msgstr "&Tarayıcıda Aç"
+
+msgid "&Create New..."
+msgstr "&Yeni Oluştur..."
+
+msgid "&Close"
+msgstr "&Kapat"
+
+msgid "Create New Repository"
+msgstr "Yeni Depo Oluştur"
+
+msgid "Repository &Name:"
+msgstr "Depo &Adı:"
+
+msgid "&Description:"
+msgstr "&Açıklama:"
+
+msgid "&Visibility:"
+msgstr "&Görünürlük:"
+
+msgid "Initialize with a &README"
+msgstr "&README dosyası ile başlat"
+
+msgid "&License:"
+msgstr "&Lisans:"
+
+msgid "none"
+msgstr "yok"
+
+msgid "mit"
+msgstr "MIT Lisansı"
+
+msgid "gpl-3.0"
+msgstr "GNU GPL v3"
+
+msgid "apache-2.0"
+msgstr "Apache 2.0"
+
+msgid "Repository created successfully."
+msgstr "Depo başarıyla oluşturuldu."
+
+msgid "Success"
+msgstr "Başarılı"
+
+msgid "Failed to create repository."
+msgstr "Depo oluşturulamadı."
+
+msgid "Personal Access &Token:"
+msgstr "Kişisel Erişim &Jetonu (Token):"
